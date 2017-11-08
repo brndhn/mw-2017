@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="123px" height="18px" viewBox="0 0 123 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+    <title>slice</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <text id="twitter" sketch:type="MSTextLayer" font-family="SS Social" font-size="18" font-weight="normal" fill="#444444">
+            <tspan x="0" y="18">twitter</tspan>
+        </text>
+        <text id="facebook" sketch:type="MSTextLayer" font-family="SS Social" font-size="18" font-weight="normal" fill="#444444">
+            <tspan x="35" y="18">facebook</tspan>
+        </text>
+        <text id="dribbble" sketch:type="MSTextLayer" font-family="SS Social" font-size="18" font-weight="normal" fill="#444444">
+            <tspan x="70" y="18">dribbble</tspan>
+        </text>
+        <text id="linkedin" sketch:type="MSTextLayer" font-family="SS Social" font-size="18" font-weight="normal" fill="#444444">
+            <tspan x="105" y="18">linkedin</tspan>
+        </text>
+    </g>
+</svg>

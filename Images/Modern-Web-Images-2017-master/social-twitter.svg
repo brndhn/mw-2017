@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>twitter</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard-1" sketch:type="MSArtboardGroup" transform="translate(-401.000000, -3182.000000)">
+            <g id="coLearners" sketch:type="MSLayerGroup" transform="translate(0.000000, 1955.000000)">
+                <rect id="background" fill="#FAFAFA" sketch:type="MSShapeGroup" x="0" y="0" width="1190" height="1387"></rect>
+                <g id="Sam" transform="translate(351.000000, 951.000000)" font-weight="normal" font-family="SS Social" fill="#444444" font-size="18" sketch:type="MSTextLayer">
+                    <g id="Group" transform="translate(50.000000, 276.000000)">
+                        <text id="twitter">
+                            <tspan x="1" y="19">twitter</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

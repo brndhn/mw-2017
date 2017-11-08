@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="556px" height="30px" viewBox="0 0 556 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>Divider</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard-1" sketch:type="MSArtboardGroup" transform="translate(-317.000000, -1091.000000)">
+            <g id="Welcome-Intro" sketch:type="MSLayerGroup" transform="translate(173.000000, 790.000000)">
+                <g id="Divider" transform="translate(144.000000, 301.000000)" sketch:type="MSShapeGroup">
+                    <path d="M270.668874,5.06254599 L258.930096,14.8395879 L270.668874,24.7431935 L269.84621,25.6924209 L257,14.8395879 L269.84621,4.11331862 L270.668874,5.06254599 Z M285.065489,0.474613687 L273.136865,29.6791759 L271.966152,29.2045622 L283.894776,0 L285.065489,0.474613687 Z M300,14.8395879 L287.122149,25.6924209 L286.331126,24.7431935 L298.038263,14.8395879 L286.331126,5.06254599 L287.122149,4.11331862 L300,14.8395879 Z" id="&lt;/&gt;-copy" fill="#DEDEDE"></path>
+                    <g id="Line-+-Line-Copy" transform="translate(0.000000, 14.000000)" stroke="#DEDEDE" stroke-linecap="square">
+                        <path d="M0.5,1.5 L216.5,1.5" id="Line"></path>
+                        <path d="M339.5,1.5 L555.5,1.5" id="Line-Copy"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

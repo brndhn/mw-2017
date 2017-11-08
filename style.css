@@ -1,0 +1,114 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+body {
+	font-family: 'Roboto', Helvetica, sans-serif;
+}
+
+.main-nav{
+	text-decoration: none;
+}
+
+.navigation-list{
+	margin: 0;
+  	padding: 35px;
+  	/* margin or padding?*/
+  	list-style-type: none;
+  	font-size: 18px;
+}
+
+.navigation-list__item{
+  	font-size: 18px;
+  	line-height: 1.2REM
+ 	height: 20px;
+  	float: right;
+  	padding: 14px;
+  	text-transform: uppercase;
+  	/*list items are displayed in reverse order*/
+}
+
+.navigation-list__item >a{
+	text-decoration: none;
+	color: white;
+}
+
+.course-name{
+	color: white;
+	font-size: 5.75rem;
+	border: 2px solid red;
+	text-align: center;
+	font-weight: 100;
+}
+
+.course-date{
+	color: #ffffff;
+	font-size: 1.5rem;
+	font-weight: 300;
+	border: 2px solid red;
+	text-align: center;
+	width: 100%;
+	margin-top: 5px;
+	line-height: 28px;
+
+} /*spacing issues*/
+
+.course-date::after{
+	content: url(file:///Users/BrendhainReid/Desktop/Modern%20Web/WebsiteProject/Images/Modern-Web-Images-2017-master/mw-icon.png);
+	display: block;
+	margin-top: 22px;
+}
+
+.hero {
+	height: 640px;
+	width: 100%;
+	background: url(file:///Users/BrendhainReid/Desktop/Modern%20Web/WebsiteProject/Images/Modern-Web-Images-2017-master/hero.jpg);
+}
+
+.intro-text {
+	color: #C3BFBF;
+	font-size: 32px;
+	font-weight: 300;
+	border: 2px solid red;
+	text-align: center;
+	max-width: 844px;
+	margin: 0 auto;
+	margin-top: 150px;
+	/*margin-bottom: 77px;*/
+	line-height: 56px;
+}
+ .intro-text::after{
+	content: url(file:///Users/BrendhainReid/Desktop/Modern%20Web/WebsiteProject/Images/Modern-Web-Images-2017-master/divider.png);
+	display: block;
+	margin-top: 77px;
+}
+
+
+.course-goals{
+
+}
+
+.course-goals__title {
+	color: #777777;
+	font-size: 1.75rem;
+	text-transform: capitalize;
+	text-align: center;
+
+}
+
+.course-goals__list{
+	margin: 0;
+  	padding: 0;
+  	list-style-type: none;
+
+}
+
+.course-goal__title{ 
+	color: #777777;
+	font-size: 1rem;
+	text-transform: uppercase;
+
+}
+
+.course-goal__text{
+
+}
