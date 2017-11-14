@@ -26,7 +26,6 @@ body {
   	float: left;
   	padding: 14px;
   	text-transform: uppercase;
-  	/*list items are displayed in reverse order*/
 }
 
 .navigation-list__item >a{
