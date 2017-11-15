@@ -93,6 +93,7 @@ body {
 	content: url("images/divider.png");
 	display: block;
 	margin-top: 77px;
+	margin-bottom: 127px;
 }
 
 
@@ -102,26 +103,42 @@ body {
 
 .course-goals__title {
 	color: #777777;
-	font-size: 1.75rem;
+	opacity: 100%;
+	font-size: 28px;
 	text-transform: capitalize;
 	text-align: center;
+	font-weight: 500;
+	border: 2px solid red;
 
 }
 
 .course-goals__list{
 	margin: 0;
-  	padding: 0;
   	list-style-type: none;
+  	float: right;
+  	border: 2px solid red;
 
 }
 
-.course-goal__title{ 
+.course-goals__list h3{ 
 	color: #777777;
 	font-size: 1rem;
-	text-transform: uppercase;
+	text-transform: uppercase; 
+	margin-bottom: 0px;
+	border: 2px solid red;
 
 }
 
-.course-goal__text{
+.course-goals__list li{
+	font-size: 1rem;
+	color: #777777;
+	line-height: 18px;
+	max-width: 33%;
+	height: 300px;
+	float: left;
+	margin: 0;
+	padding: 53px;
+	border: 2px solid red;
+
 
 }
