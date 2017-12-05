@@ -1,0 +1,71 @@
+.main-nav{
+	text-decoration: none;
+}
+
+
+.navigation-list{
+	margin: 0;
+  	padding: 35px;
+  	/* margin or padding?*/
+  	list-style-type: none;
+  	font-size: 18px;
+  	float: right;
+}
+
+.navigation-list__item{
+  	font-size: 18px;
+  	line-height: 1.2REM;
+ 	height: 20px;
+  	float: left;
+  	padding: 14px;
+  	text-transform: uppercase;
+}
+
+.navigation-list__item >a{
+	text-decoration: none;
+	color: white;
+}
+
+#logo{
+	background-image: url("images/factory-logo.png");
+	display:inline-block;
+	height: 100px;
+	width:157px;
+	margin-top: 18px;
+	margin-left: 34px;
+	float: left;
+}
+
+.course-name{
+	color: white;
+	font-size: 5.75rem;
+	border: 2px solid red;
+	text-align: center;
+	font-weight: 100;
+	display: inline-block;
+	width: 100%;
+}
+
+.course-date{
+	color: #ffffff;
+	font-size: 1.5rem;
+	font-weight: 300;
+	border: 2px solid red;
+	text-align: center;
+	width: 100%;
+	margin-top: 5px;
+	line-height: 28px;
+
+} /*spacing issues*/
+
+.course-date::after{
+	content: url("images/mw-icon.png");
+	display: block;
+	margin-top: 22px;
+}
+
+.hero {
+	height: 640px;
+	width: 100%;
+	background: url("images/hero.jpg");
+}
